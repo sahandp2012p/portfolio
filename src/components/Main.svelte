@@ -39,7 +39,7 @@
                 A few of my creative endeavors.
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                Curios to <span class="poppins text-violet-400">see</span> my work?
+                Curious to <span class="poppins text-violet-400">see</span> my work?
             </h3>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
